@@ -2,6 +2,8 @@
 
 * Requires java 17
 
+Reproducer for https://github.com/quarkusio/quarkus/issues/38054.
+
 This is slightly modified quickstart for [kafka-avro-schema](https://github.com/quarkusio/quarkus-quickstarts/tree/main/kafka-avro-schema-quickstart).
 Uses up-to-date version of quarkus - 999-SNAPSHOT.
 
